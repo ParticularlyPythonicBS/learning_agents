@@ -2,7 +2,7 @@
 name = "learning-agents"
 version = "0.1.0"
 description = "Trying to learn how to make agents"
-requires-python = ">=3.10, <3.13"
+requires-python = ">=3.13, <3.14"
 dependencies = [
     "agentuity>=0.0.102",
     "openai>=1.99.1",
